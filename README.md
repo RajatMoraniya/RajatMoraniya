@@ -1,49 +1,41 @@
+# Rajat
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
+<h1 align="center">Hi 👋, I'm Rajat Moraniya</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/Gm16krTMttrjLH237](https://images.app.goo.gl/pbtYhu2SasEtebup6](https://images.app.goo.gl/Pg9C4hpLBBYUmezi6)" />
+ -->
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
-[[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)]
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RajatMoraniya&label=Profile%20views&color=0e75b6&style=flat" alt="RajatMoraniya" /> </p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rajat-moraniya/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- </div>
+<!-- - 🔭 I’m currently working on [Calculator](https://github.com/Shraddha08-cmyk/calculator) -->
 
+- 🌱 I’m currently learning **JavaScript, React Js**
 
-<h1 align="center">Hi 👋, I'm Rajat Moraniya</h1> 
-<h3 align="center">A passionate Web Developer from Indore, India</h3>
-<img align="right" alt="Coding" width="400" src="" />
+- 👨‍💻 All of my projects are available at [https://github.com/RajatMoraniya?tab=repositories](https://github.com/RajatMoraniya?tab=repositories)
 
--🌱 I’m currently learning **JavaScript, React**
-
-- 💬 Ask me about **Data Structure**
-
-- 📫 How to reach me **rajatindian123@gmail.com +91 8602846369**
-
-- ⚡ Fun fact **I Love Teekha(Spicy)**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **rajatindian123@gmail.com**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajatMoraniya&label=Profile%20views&color=0e75b6&style=flat" alt="RajatMoraniya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RajatMoraniya" alt="RajatMoraniya" /></a>
- </p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
- 
+<h3>:fire: My Stats :</h3>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajatMoraniya&layout=compact&theme=vision-friendly-dark)
 
-<p align="left">
-<a href="https://linkedin.com/in/rajat-moraniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RajatMoraniya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21324320/rajat-moraniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rajat rav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajat-moraniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajat-moraniya" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rajat-moraniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rajat-moraniya" height="30" width="40" /></a>
-</p>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajatMoraniya&theme=dark&hide_border=true&currStreakLabel=DDDDDD)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<p>
+<a href="https://github.com/RajatMoraniya"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajatMoraniya&theme=dracula" />
+</span></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajatMoraniya&show_icons=true&locale=en&layout=compact" alt="rajat-moraniya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajatMoraniya&show_icons=true&locale=en" alt="rajat-moraniya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajatMoraniya&" alt="RajatMoraniya" /></p>
+<p ><img src="https://github-profile-trophy.vercel.app/?username=RajatMoraniya&theme=vue" alt=""/> </p>
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
