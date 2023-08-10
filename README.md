@@ -14,11 +14,11 @@
 
 <!-- - 🔭 I’m currently working on [Calculator](https://github.com/Shraddha08-cmyk/calculator) -->
 
-- 🌱 I’m currently learning **JavaScript, React Js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajatMoraniya?tab=repositories](https://github.com/RajatMoraniya?tab=repositories)
 
-- 📫 How to reach me **rajatindian123@gmail.com**
+- 📫 How to reach me **moraniyarajat@gmail.com**
 
 
 
