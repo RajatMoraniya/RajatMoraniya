@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently working on **AWS**
 - 👨‍💻 All of my projects are available at [https://github.com/RajatMoraniya?tab=repositories](https://github.com/RajatMoraniya?tab=repositories)
-- 📫 How to reach me **moraniyarajat@gmail.com**
+- 📫 How to reach me **https://rajatmoraniya.tech**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
